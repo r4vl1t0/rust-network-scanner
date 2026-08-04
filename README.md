@@ -22,3 +22,5 @@ Ejemplo de resultado:
   192.168.18.20/32 \
   -p-
 ```
+
+![Mi logo](imagenrust.png)
