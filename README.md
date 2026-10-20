@@ -24,3 +24,5 @@ Ejemplo de resultado:
 ```
 
 ![Mi logo](imagenrust.png)
+
+Si quieres compilarlo crea un src/main.rs y Cargo.toml y luego cargo build --release
